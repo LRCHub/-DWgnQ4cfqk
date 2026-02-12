@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Sunshine",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-12T15:36:09.363926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beers And Sunshine",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/01_Beers_And_Sunshine_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beers And Sunshine - Summer Mix",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/02_Beers_And_Sunshine_-_Summer_Mix_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cover Me In Sunshine",
+      "artist": "P!nk feat. Willow Sage Hart",
+      "has_synced": true,
+      "path": "select/03_Cover_Me_In_Sunshine_P!nk_feat._Willow_Sage_Hart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ain't No Sunshine",
+      "artist": "O.N.E The Duo",
+      "has_synced": true,
+      "path": "select/04_Ain't_No_Sunshine_O.N.E_The_Duo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All For the Love of Sunshine",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/05_All_For_the_Love_of_Sunshine_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All For The Love Of Sunshine (Album Version)",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/06_All_For_The_Love_Of_Sunshine_(Album_Version)_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bring Me Sunshine (\"Naked\" Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Bring_Me_Sunshine_(_Naked__Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Country Sunshine",
+      "artist": "Dottie West",
+      "has_synced": false,
+      "path": "select/08_Country_Sunshine_Dottie_West.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine?",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/09_Do_You_Know_You_Are_My_Sunshine_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine? (From \"Smokey And The Bandit 2\" Soundtrack)",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/10_Do_You_Know_You_Are_My_Sunshine__(From__Smokey_And_The_Bandit_2__Soundtrack)_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunshine & Whiskey",
+      "artist": "Frankie Ballard",
+      "has_synced": true,
+      "path": "select/11_Sunshine_&_Whiskey_Frankie_Ballard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunshine and Summertime",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/12_Sunshine_and_Summertime_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunshine and Summertime (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/13_Sunshine_and_Summertime_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sunshine on the Line",
+      "artist": "Randy Houser",
+      "has_synced": true,
+      "path": "select/14_Sunshine_on_the_Line_Randy_Houser.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Are My Sunshine",
+      "artist": "Jimmie Davis",
+      "has_synced": false,
+      "path": "select/15_You_Are_My_Sunshine_Jimmie_Davis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love Sunshine",
+      "artist": "馮曦妤",
+      "has_synced": false,
+      "path": "select/16_I_Love_Sunshine_馮曦妤.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Love Sunshine",
+      "artist": "冯曦妤",
+      "has_synced": false,
+      "path": "select/17_I_Love_Sunshine_冯曦妤.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sunshine",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/18_Sunshine_Keane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_01_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_02_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_03_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_04_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_05_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_06_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_07_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_08_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_09_Sunshine_櫻井翔.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Sunshine  翔",
+      "artist": "櫻井翔",
+      "has_synced": false,
+      "path": "select/pl_10_Sunshine_翔_櫻井翔.txt"
+    }
+  ]
+}
