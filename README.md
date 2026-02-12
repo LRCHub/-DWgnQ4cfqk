@@ -1,0 +1,37 @@
+# 嵐 – Sunshine
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+朝陽を浴びた鳥たちが 空へ空へとさえずる
+眩しい今日をありがとう 窓を開けたら
+目を合わせウインクして手を振って 想像してみよう
+Everybody's dreams come true
+Let's say! 上々 この日常 かけがえないMy story
+陽気に歌えば 明日に届く Let's say!
+上々 この現状 捉えよう次第さ
+ここから始めよう Good morning, everyone
+Say together
+Good morning, everyone
+幾つもの夜の先に 開けていくこんな旅路
+高まって期待値 響かすよ未来に
+悔しい昨日にありがとう 涙拭おう
+誰も彼も僕も君だって越えられるさ
+Everybody's dreams come true
+向かえ 上昇 もう一度 偽れないMy spirit
+世界は味方さ 日はまた昇る Let's say!
+向上 もう一歩 作るんだ未来は
+僕らが始めよう Good morning, everyone
+Good day it's up to you こんなふうに歩いてく
+Good day it's up to you 青空の向こうへ
+Good day it's up to you こんなふうに歩いてく
+Good day it's up to you 青空の向こうへ
+Good day it's up to you ずっとずっと歩いてく
+Good day it's up to you Yeah
+Let's say! 上々 この日常 かけがえないMy story
+陽気に歌えば 明日に届く Let's say!
+上々 この現状 捉えよう次第さ
+ここから始めよう Good morning, everyone
+Say together
+Good morning, everyone
+```
